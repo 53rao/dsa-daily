@@ -242,3 +242,225 @@ class Solution {
     }
 };
 ```
+Day 2 : 11/6/2026
+
+## Problem 9a : [Union of two sorted arrays](https://www.geeksforgeeks.org/problems/union-of-two-sorted-arrays-1587115621/1)
+### Using set 
+#### GeeksforGeeks : Time take : 0.5
+```
+class Solution {
+  public:
+    vector<int> findUnion(vector<int> &a, vector<int> &b) {
+        // code here
+        set<int> soln(a.begin(),a.end());
+        int i=0,j=0;
+        while(j<b.size()){
+            soln.insert(b[j]);
+            j++;
+        }
+        return vector<int> (soln.begin(),soln.end());
+    }
+};
+```
+### Two pointers
+#### GeeksforGeeks : Time take : 0.23
+```
+class Solution {
+  public:
+    vector<int> findUnion(vector<int> &a, vector<int> &b) {
+        // code here
+        int i=0,j=0,prev;
+        vector<int> soln;
+        
+        if(a[i]==b[j]){
+            
+            soln.emplace_back(b[j]);
+            prev=b[j];
+            j++;
+            i++;
+            
+        }
+        else if(a[i]>b[j]){
+            soln.emplace_back(b[j]);
+            prev=b[j];
+            j++;
+        }
+        else{
+            soln.emplace_back(a[i]);
+            prev=a[i];
+            i++;
+        }
+        
+        while(i<a.size()&&j<b.size()){
+            if(a[i]<=prev){
+                while(a[i]<=prev){
+                    i++;
+                }
+            }
+            else if(b[j]<=prev){
+                while(b[j]<=prev){
+                    j++;
+                }
+            }
+            else if(a[i]==b[j]){
+                soln.emplace_back(b[j]);
+                prev=b[j];
+                j++;
+                i++;
+            }
+            else if(a[i]>b[j]){
+                soln.emplace_back(b[j]);
+                prev=b[j];
+                j++;
+            }
+            
+            else{
+                soln.emplace_back(a[i]);
+                prev=a[i];
+                i++;
+            }
+        }
+        while(i<a.size()){
+            if(a[i]<=prev){
+                while(a[i]<=prev){
+                    i++;
+                }
+            }
+            else{
+            soln.emplace_back(a[i]);
+                prev=a[i];
+                i++;
+            }
+        }
+        while(j<b.size()){
+            if(b[j]<=prev){
+                while(b[j]<=prev){
+                    j++;
+                }
+            }
+            else{
+            soln.emplace_back(b[j]);
+                prev=b[j];
+                j++;
+            }
+        }
+        return soln;
+        
+    }
+};
+```
+
+## Problem 9b : [Intersection of two sorted arrays](https://www.geeksforgeeks.org/problems/intersection-of-two-sorted-array-1587115620/1)
+#### GeeksforGeeks : Time take : 0.27
+
+### Two Pointer
+```
+class Solution {
+  public:
+    vector<int> intersection(vector<int> &arr1, vector<int> &arr2) {
+        // code here
+        int i=0,j=0,prev=-1;
+        vector<int> soln;
+        while(i<arr1.size()&&j<arr2.size()){
+            if((arr1[i]==arr2[j])&&(prev==-1||arr1[i]>prev)){
+                soln.emplace_back(arr1[i]);
+                prev=arr1[i];
+                i++;
+                j++;
+            }
+            else if(arr2[j]>arr1[i]){
+                i++;
+            }
+            else{
+                j++;
+            }
+        }
+        return soln;
+    }
+};
+```
+
+## Problem 10 : [268. Missing Number](https://leetcode.com/problems/missing-number/description/)
+### Sort and  iterate 
+#### Leetcode - TC : beats 21%, SC : beats 93%
+```
+class Solution {
+public:
+    int missingNumber(vector<int>& nums) {
+        sort(nums.begin(),nums.end());
+        int curr=0;
+        for(int num:nums){
+            if(curr!=num)
+                return curr;
+            curr++;
+        }
+        return curr;
+    }
+};
+```
+
+## Problem 11 : [485.Max Consecutive ones](https://leetcode.com/problems/max-consecutive-ones/description/)
+```
+class Solution {
+public:
+    int findMaxConsecutiveOnes(vector<int>& nums) {
+        int curr=0,soln=-1;
+        for(int i=0;i<nums.size();i++){
+            if(nums[i]==0){
+                soln=max(soln,curr);
+                curr=0;
+            }
+            else{
+                curr++;
+            }
+        }
+        return max(soln,curr);
+    }
+};
+```
+## Problem 12 : [560.Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/description/)
+
+### prefix sum approach
+#### Leetcode - TC : beats 16% , SC : beats 80%
+```
+class Solution {
+public:
+    int subarraySum(vector<int>& nums, int k) {
+        vector<int> prefix;
+        prefix.emplace_back(0);
+        int curr=0,soln=0;
+        for(int i=0;i<nums.size();i++){
+            curr+=nums[i];
+            prefix.emplace_back(curr);
+        }
+        for(int i=0;i<prefix.size();i++){
+            for(int j=i+1;j<prefix.size();j++){
+                if(prefix[j]-prefix[i]==k)
+                    soln++;
+            }
+        }
+        return soln;
+    }
+};
+```
+
+### Hashmap
+#### Leetcode - TC : beats 24% , SC : beats 5%
+
+```
+class Solution {
+public:
+    int subarraySum(vector<int>& nums, int k) {
+        map<int,int> mp;
+        mp[0]=1;
+        int prefix=0,soln=0,need;
+        for(int i=0;i<nums.size();i++){
+            prefix+=nums[i];
+            need=prefix-k;
+            soln+=mp[need];
+            mp[prefix]++;
+        }
+        return soln;
+    }
+};
+```
