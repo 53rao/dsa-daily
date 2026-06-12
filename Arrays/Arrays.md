@@ -464,3 +464,110 @@ public:
     }
 };
 ```
+
+## Problem 12 : [Single Number](https://leetcode.com/problems/single-number/description/)
+### Hashmap 
+#### Leetcode - TC : beats 7% , SC : beats 7%
+
+```
+class Solution {
+public:
+    int singleNumber(vector<int>& nums) {
+        map<int,int> mp;
+        for(int num:nums){
+            mp[num]++;
+        }
+        for(auto it:mp){
+            if(it.second==1)
+                return it.first;
+        }
+        return -1;
+    }
+};
+```
+### Sort and iterate
+#### Leetcode - TC : beats 23% , SC : beats 23%
+
+```
+class Solution {
+public:
+    int singleNumber(vector<int>& nums) {
+        sort(nums.begin(),nums.end());
+        int prev=nums[0],count=1;
+        for(int i=1;i<nums.size();i++){
+            if(prev==nums[i])
+                count++;
+            else{
+                if(count==1)
+                    return prev;
+                else{
+                    count=1;
+                    prev=nums[i];
+                }
+            }
+        }
+        return prev;
+    }
+};
+```
+
+## Problem 13 : [Search 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/)
+### Binary Search
+```
+class Solution {
+public:
+    bool searchMatrix(vector<vector<int>>& matrix, int target) {
+        int top=0,bottom=matrix.size()-1,left,right,midv,midh;
+        while(top<=bottom){
+            left=0;
+            right=matrix[0].size()-1;
+            midv=bottom-(bottom-top)/2;
+            if(matrix[midv][left]<=target&&target<=matrix[midv][right]){
+                while(left<=right){
+                    midh=right-(right-left)/2;
+                    if(matrix[midv][midh]==target)
+                        return true;
+                    else if(matrix[midv][midh]<target){
+                        left=midh+1;
+                    }
+                    else{
+                        right=midh-1;
+                    }
+                }
+                return false;
+            }
+            else if(target<matrix[midv][left]){
+                bottom=midv-1;
+            }
+            else{
+                top=midv+1;
+            }
+        }
+        return false;
+    }
+};
+```
+
+## Problem 14 : [Row with Max 1s in Rowwise Sorted](https://www.geeksforgeeks.org/problems/row-with-max-1s0023/1)
+
+```
+class Solution {
+  public:
+    int rowWithMax1s(vector<vector<int>> &arr) {
+        // code here
+        int soln=-1,curr,maxcount=-1;
+        for(int i=0;i<arr.size();i++){
+            curr=0;
+            for(int j=0;j<arr[0].size();j++){
+                if(arr[i][j]==1)
+                    curr++;
+            }
+            if(curr!=0&&curr>maxcount){
+                maxcount=curr;
+                soln=i;
+            }                
+        }
+        return soln;
+    }
+};
+```
