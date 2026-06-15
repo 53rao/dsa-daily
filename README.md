@@ -71,4 +71,8 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/53rao/dsa-daily/tree/master/0053-maximum-subarray) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/53rao/dsa-daily/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
