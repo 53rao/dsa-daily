@@ -571,3 +571,40 @@ class Solution {
     }
 };
 ```
+## Problem 15 : [Sort colors]()
+### Hashmap
+```
+class Solution {
+public:
+    void sortColors(vector<int>& nums) {
+        map<int,int> mp;
+        for(int num:nums){
+            mp[num]++;
+        }
+        int k=0;
+        for(auto it:mp){
+            int temp=it.second;
+            for(int i=0;i<temp;i++){
+                nums[k++]=it.first;
+            }
+        }
+    }
+};
+```
+## Problem 16 : [Majority Element]()
+### Using hashmap
+```class Solution {
+public:
+    int majorityElement(vector<int>& nums) {
+        int n=nums.size();
+        map<int,int> mp;
+        for(int num:nums){
+            mp[num]++;
+            if(mp[num]>n/2)
+                return num;
+        }
+        return 0;
+    }
+};
+
+```
