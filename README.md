@@ -123,8 +123,13 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/53rao/dsa-daily/tree/master/0234-palindrome-linked-list) |
+| [1021-remove-outermost-parentheses](https://github.com/53rao/dsa-daily/tree/master/1021-remove-outermost-parentheses) |
 ## Merge Sort
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/53rao/dsa-daily/tree/master/0148-sort-list) |
+## String
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/53rao/dsa-daily/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
