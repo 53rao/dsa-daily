@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/53rao/dsa-daily/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/53rao/dsa-daily/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/53rao/dsa-daily/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/53rao/dsa-daily/tree/master/0053-maximum-subarray) |
@@ -133,6 +134,7 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/53rao/dsa-daily/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/53rao/dsa-daily/tree/master/0151-reverse-words-in-a-string) |
 | [1021-remove-outermost-parentheses](https://github.com/53rao/dsa-daily/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/53rao/dsa-daily/tree/master/1903-largest-odd-number-in-string) |
@@ -140,4 +142,8 @@
 |  |
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/53rao/dsa-daily/tree/master/1903-largest-odd-number-in-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/53rao/dsa-daily/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
