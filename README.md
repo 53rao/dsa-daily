@@ -62,12 +62,14 @@
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/53rao/dsa-daily/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/53rao/dsa-daily/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/53rao/dsa-daily/tree/master/0268-missing-number) |
 | [1903-largest-odd-number-in-string](https://github.com/53rao/dsa-daily/tree/master/1903-largest-odd-number-in-string) |
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/53rao/dsa-daily/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/53rao/dsa-daily/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/53rao/dsa-daily/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/53rao/dsa-daily/tree/master/0160-intersection-of-two-linked-lists) |
@@ -141,6 +143,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/53rao/dsa-daily/tree/master/0005-longest-palindromic-substring) |
+| [0013-roman-to-integer](https://github.com/53rao/dsa-daily/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/53rao/dsa-daily/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/53rao/dsa-daily/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/53rao/dsa-daily/tree/master/0205-isomorphic-strings) |
