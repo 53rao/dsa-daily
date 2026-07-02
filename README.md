@@ -130,6 +130,7 @@
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/53rao/dsa-daily/tree/master/0234-palindrome-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/53rao/dsa-daily/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/53rao/dsa-daily/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Merge Sort
 |  |
 | ------- |
@@ -143,6 +144,7 @@
 | [0242-valid-anagram](https://github.com/53rao/dsa-daily/tree/master/0242-valid-anagram) |
 | [0796-rotate-string](https://github.com/53rao/dsa-daily/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/53rao/dsa-daily/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/53rao/dsa-daily/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/53rao/dsa-daily/tree/master/1903-largest-odd-number-in-string) |
 ## Greedy
 |  |
