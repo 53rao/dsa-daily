@@ -66,6 +66,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/53rao/dsa-daily/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/53rao/dsa-daily/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/53rao/dsa-daily/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/53rao/dsa-daily/tree/master/0268-missing-number) |
 | [1903-largest-odd-number-in-string](https://github.com/53rao/dsa-daily/tree/master/1903-largest-odd-number-in-string) |
 ## Hash Table
@@ -85,6 +86,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/53rao/dsa-daily/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/53rao/dsa-daily/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/53rao/dsa-daily/tree/master/0268-missing-number) |
 ## Sorting
 |  |
@@ -134,6 +136,7 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/53rao/dsa-daily/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/53rao/dsa-daily/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/53rao/dsa-daily/tree/master/0234-palindrome-linked-list) |
 ## Stack
 |  |
