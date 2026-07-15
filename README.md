@@ -10,6 +10,7 @@
 | [0053-maximum-subarray](https://github.com/53rao/dsa-daily/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/53rao/dsa-daily/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/53rao/dsa-daily/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/53rao/dsa-daily/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/53rao/dsa-daily/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0136-single-number](https://github.com/53rao/dsa-daily/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/53rao/dsa-daily/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -85,6 +86,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/53rao/dsa-daily/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/53rao/dsa-daily/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/53rao/dsa-daily/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/53rao/dsa-daily/tree/master/0268-missing-number) |
@@ -176,4 +178,8 @@
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/53rao/dsa-daily/tree/master/0796-rotate-string) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/53rao/dsa-daily/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
