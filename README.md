@@ -155,6 +155,7 @@
 | [0234-palindrome-linked-list](https://github.com/53rao/dsa-daily/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/53rao/dsa-daily/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/53rao/dsa-daily/tree/master/0503-next-greater-element-ii) |
+| [0901-online-stock-span](https://github.com/53rao/dsa-daily/tree/master/0901-online-stock-span) |
 | [1021-remove-outermost-parentheses](https://github.com/53rao/dsa-daily/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/53rao/dsa-daily/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Merge Sort
@@ -198,6 +199,7 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/53rao/dsa-daily/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/53rao/dsa-daily/tree/master/0232-implement-queue-using-stacks) |
+| [0901-online-stock-span](https://github.com/53rao/dsa-daily/tree/master/0901-online-stock-span) |
 ## Queue
 |  |
 | ------- |
@@ -208,4 +210,9 @@
 | ------- |
 | [0496-next-greater-element-i](https://github.com/53rao/dsa-daily/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/53rao/dsa-daily/tree/master/0503-next-greater-element-ii) |
+| [0901-online-stock-span](https://github.com/53rao/dsa-daily/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/53rao/dsa-daily/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
