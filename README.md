@@ -23,6 +23,7 @@
 | [0496-next-greater-element-i](https://github.com/53rao/dsa-daily/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/53rao/dsa-daily/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/53rao/dsa-daily/tree/master/0560-subarray-sum-equals-k) |
+| [0735-asteroid-collision](https://github.com/53rao/dsa-daily/tree/master/0735-asteroid-collision) |
 | [0875-koko-eating-bananas](https://github.com/53rao/dsa-daily/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/53rao/dsa-daily/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/53rao/dsa-daily/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -155,6 +156,7 @@
 | [0234-palindrome-linked-list](https://github.com/53rao/dsa-daily/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/53rao/dsa-daily/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/53rao/dsa-daily/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/53rao/dsa-daily/tree/master/0735-asteroid-collision) |
 | [0901-online-stock-span](https://github.com/53rao/dsa-daily/tree/master/0901-online-stock-span) |
 | [1021-remove-outermost-parentheses](https://github.com/53rao/dsa-daily/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/53rao/dsa-daily/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -215,4 +217,8 @@
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/53rao/dsa-daily/tree/master/0901-online-stock-span) |
+## Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/53rao/dsa-daily/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
