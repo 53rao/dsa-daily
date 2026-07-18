@@ -30,6 +30,7 @@
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/53rao/dsa-daily/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/53rao/dsa-daily/tree/master/1539-kth-missing-positive-number) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/53rao/dsa-daily/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/53rao/dsa-daily/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -74,6 +75,7 @@
 | [0231-power-of-two](https://github.com/53rao/dsa-daily/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/53rao/dsa-daily/tree/master/0268-missing-number) |
 | [1903-largest-odd-number-in-string](https://github.com/53rao/dsa-daily/tree/master/1903-largest-odd-number-in-string) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/53rao/dsa-daily/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -221,4 +223,8 @@
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/53rao/dsa-daily/tree/master/0735-asteroid-collision) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/53rao/dsa-daily/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
