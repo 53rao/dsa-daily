@@ -247,6 +247,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/53rao/dsa-daily/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/53rao/dsa-daily/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/53rao/dsa-daily/tree/master/0543-diameter-of-binary-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/53rao/dsa-daily/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -277,6 +278,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/53rao/dsa-daily/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/53rao/dsa-daily/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/53rao/dsa-daily/tree/master/0543-diameter-of-binary-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/53rao/dsa-daily/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -286,4 +288,8 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/53rao/dsa-daily/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/53rao/dsa-daily/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/53rao/dsa-daily/tree/master/0199-binary-tree-right-side-view) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0701-insert-into-a-binary-search-tree](https://github.com/53rao/dsa-daily/tree/master/0701-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
