@@ -25,6 +25,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/53rao/dsa-daily/tree/master/0560-subarray-sum-equals-k) |
 | [0735-asteroid-collision](https://github.com/53rao/dsa-daily/tree/master/0735-asteroid-collision) |
 | [0875-koko-eating-bananas](https://github.com/53rao/dsa-daily/tree/master/0875-koko-eating-bananas) |
+| [0994-rotting-oranges](https://github.com/53rao/dsa-daily/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/53rao/dsa-daily/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/53rao/dsa-daily/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/53rao/dsa-daily/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -49,6 +50,7 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/53rao/dsa-daily/tree/master/0074-search-a-2d-matrix) |
+| [0994-rotting-oranges](https://github.com/53rao/dsa-daily/tree/master/0994-rotting-oranges) |
 ## Two Pointers
 |  |
 | ------- |
@@ -299,6 +301,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/53rao/dsa-daily/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/53rao/dsa-daily/tree/master/0226-invert-binary-tree) |
 | [0547-number-of-provinces](https://github.com/53rao/dsa-daily/tree/master/0547-number-of-provinces) |
+| [0994-rotting-oranges](https://github.com/53rao/dsa-daily/tree/master/0994-rotting-oranges) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/53rao/dsa-daily/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Search Tree
 |  |
