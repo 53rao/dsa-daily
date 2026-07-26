@@ -266,6 +266,7 @@
 | [0226-invert-binary-tree](https://github.com/53rao/dsa-daily/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/53rao/dsa-daily/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/53rao/dsa-daily/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/53rao/dsa-daily/tree/master/0547-number-of-provinces) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/53rao/dsa-daily/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -297,10 +298,19 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/53rao/dsa-daily/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/53rao/dsa-daily/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/53rao/dsa-daily/tree/master/0226-invert-binary-tree) |
+| [0547-number-of-provinces](https://github.com/53rao/dsa-daily/tree/master/0547-number-of-provinces) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/53rao/dsa-daily/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0450-delete-node-in-a-bst](https://github.com/53rao/dsa-daily/tree/master/0450-delete-node-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/53rao/dsa-daily/tree/master/0701-insert-into-a-binary-search-tree) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/53rao/dsa-daily/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/53rao/dsa-daily/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
