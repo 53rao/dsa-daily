@@ -81,6 +81,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/53rao/dsa-daily/tree/master/0013-roman-to-integer) |
+| [0070-climbing-stairs](https://github.com/53rao/dsa-daily/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/53rao/dsa-daily/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/53rao/dsa-daily/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/53rao/dsa-daily/tree/master/0268-missing-number) |
@@ -137,6 +138,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/53rao/dsa-daily/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/53rao/dsa-daily/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/53rao/dsa-daily/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/53rao/dsa-daily/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0410-split-array-largest-sum](https://github.com/53rao/dsa-daily/tree/master/0410-split-array-largest-sum) |
 ## Linked List
@@ -331,4 +333,8 @@
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/53rao/dsa-daily/tree/master/0547-number-of-provinces) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/53rao/dsa-daily/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
