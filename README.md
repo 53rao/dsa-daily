@@ -6,6 +6,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/53rao/dsa-daily/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/53rao/dsa-daily/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/53rao/dsa-daily/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/53rao/dsa-daily/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/53rao/dsa-daily/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/53rao/dsa-daily/tree/master/0074-search-a-2d-matrix) |
@@ -63,6 +64,7 @@
 | [0005-longest-palindromic-substring](https://github.com/53rao/dsa-daily/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/53rao/dsa-daily/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/53rao/dsa-daily/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/53rao/dsa-daily/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/53rao/dsa-daily/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/53rao/dsa-daily/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/53rao/dsa-daily/tree/master/0141-linked-list-cycle) |
