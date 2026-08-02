@@ -37,6 +37,7 @@
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/53rao/dsa-daily/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/53rao/dsa-daily/tree/master/1539-kth-missing-positive-number) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/53rao/dsa-daily/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/53rao/dsa-daily/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/53rao/dsa-daily/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Binary Search
 |  |
@@ -87,6 +88,7 @@
 | [0189-rotate-array](https://github.com/53rao/dsa-daily/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/53rao/dsa-daily/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/53rao/dsa-daily/tree/master/0268-missing-number) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/53rao/dsa-daily/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1903-largest-odd-number-in-string](https://github.com/53rao/dsa-daily/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/53rao/dsa-daily/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Hash Table
@@ -111,6 +113,7 @@
 | [0136-single-number](https://github.com/53rao/dsa-daily/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/53rao/dsa-daily/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/53rao/dsa-daily/tree/master/0268-missing-number) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/53rao/dsa-daily/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/53rao/dsa-daily/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Sorting
 |  |
@@ -219,6 +222,7 @@
 | [0046-permutations](https://github.com/53rao/dsa-daily/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/53rao/dsa-daily/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/53rao/dsa-daily/tree/master/0090-subsets-ii) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/53rao/dsa-daily/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Design
 |  |
 | ------- |
@@ -342,4 +346,12 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/53rao/dsa-daily/tree/master/0070-climbing-stairs) |
+## Combinatorics
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/53rao/dsa-daily/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Enumeration
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/53rao/dsa-daily/tree/master/1863-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
