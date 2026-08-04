@@ -145,6 +145,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/53rao/dsa-daily/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/53rao/dsa-daily/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/53rao/dsa-daily/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/53rao/dsa-daily/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/53rao/dsa-daily/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -197,6 +198,7 @@
 | [0013-roman-to-integer](https://github.com/53rao/dsa-daily/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/53rao/dsa-daily/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/53rao/dsa-daily/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/53rao/dsa-daily/tree/master/0022-generate-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/53rao/dsa-daily/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/53rao/dsa-daily/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/53rao/dsa-daily/tree/master/0242-valid-anagram) |
@@ -221,6 +223,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/53rao/dsa-daily/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/53rao/dsa-daily/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/53rao/dsa-daily/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/53rao/dsa-daily/tree/master/0046-permutations) |
@@ -358,4 +361,8 @@
 |  |
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/53rao/dsa-daily/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/53rao/dsa-daily/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
