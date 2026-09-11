@@ -1,26 +1,29 @@
 class Solution {
 public:
     vector<vector<int>> soln;
-    void combination(int idx,vector<int>& candidates,vector<int> &curr,int target,int total){
-        if(total==target){
-            soln.emplace_back(curr);
+    
+    void backtrack(vector<int>& candidates, int &target,int idx,int curr,vector<int> &temp){
+        if(curr==target){
+            soln.emplace_back(temp);
             return;
         }
-        if(total>target||idx>=candidates.size())
+        if(idx>=candidates.size()||curr>target)
             return;
-        
-        curr.emplace_back(candidates[idx]);
-        combination(idx+1,candidates,curr,target,total+candidates[idx]);
-        curr.pop_back();
-        int i=idx;
-        while(i<candidates.size()&&candidates[i]==candidates[idx])
-            i++;
-        combination(i,candidates,curr,target,total);
+        // include
+        temp.emplace_back(candidates[idx]);
+        backtrack(candidates,target,idx+1,curr+candidates[idx],temp);
+        temp.pop_back();
+        int k=candidates[idx];
+        while(idx<candidates.size()&&k==candidates[idx]){
+            idx++;
+        }
+        backtrack(candidates,target,idx,curr,temp);
+
     }
     vector<vector<int>> combinationSum2(vector<int>& candidates, int target) {
-        vector<int> curr={};
+        vector<int> temp;
         sort(candidates.begin(),candidates.end());
-        combination(0,candidates,curr,target,0);
-        return soln;
+        backtrack(candidates,target,0,0,temp);
+        return vector<vector<int>>(soln.begin(),soln.end());
     }
 };
