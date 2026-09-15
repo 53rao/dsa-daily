@@ -1,25 +1,26 @@
 class Solution {
 public:
-    void adder(int n,string &curr,int open,int close,vector<string> &soln){
-        if(curr.size()==n*2){
+    void backtrack(vector<string> &soln,int n,int open,int close,string curr){
+        if(open+close==2*n){
             soln.emplace_back(curr);
             return;
         }
         if(open<n){
-            curr+='(';
-            adder(n,curr,open+1,close,soln);
-            curr.pop_back();
+            string temp=curr+'(';
+
+            backtrack(soln,n,open+1,close,temp);
         }
-        if(close<open){
-            curr+=')';
-            adder(n,curr,open,close+1,soln);
-            curr.pop_back();
+        if(open>close&&open<=n){
+            string temp=curr+')';
+    
+            backtrack(soln,n,open,close+1,temp);
         }
+
     }
     vector<string> generateParenthesis(int n) {
         vector<string> soln;
-        string curr="";
-        adder(n,curr,0,0,soln);
+        string curr="(";
+        backtrack(soln,n,1,0,curr);
         return soln;
     }
 };
