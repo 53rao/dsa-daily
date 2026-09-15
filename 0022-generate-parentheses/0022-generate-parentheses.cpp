@@ -6,14 +6,14 @@ public:
             return;
         }
         if(open<n){
-            string temp=curr+'(';
-
-            backtrack(soln,n,open+1,close,temp);
+            curr.push_back('(');
+            backtrack(soln,n,open+1,close,curr);
+            curr.pop_back();
         }
         if(open>close&&open<=n){
-            string temp=curr+')';
-    
-            backtrack(soln,n,open,close+1,temp);
+            curr.push_back(')');
+            backtrack(soln,n,open,close+1,curr);
+            curr.pop_back();
         }
 
     }
