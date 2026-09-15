@@ -15,6 +15,7 @@
 | [0074-search-a-2d-matrix](https://github.com/53rao/dsa-daily/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/53rao/dsa-daily/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/53rao/dsa-daily/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/53rao/dsa-daily/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/53rao/dsa-daily/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/53rao/dsa-daily/tree/master/0090-subsets-ii) |
 | [0130-surrounded-regions](https://github.com/53rao/dsa-daily/tree/master/0130-surrounded-regions) |
@@ -59,6 +60,7 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/53rao/dsa-daily/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/53rao/dsa-daily/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/53rao/dsa-daily/tree/master/0130-surrounded-regions) |
 | [0463-island-perimeter](https://github.com/53rao/dsa-daily/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/53rao/dsa-daily/tree/master/0733-flood-fill) |
@@ -199,6 +201,7 @@
 | [0014-longest-common-prefix](https://github.com/53rao/dsa-daily/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/53rao/dsa-daily/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/53rao/dsa-daily/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/53rao/dsa-daily/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/53rao/dsa-daily/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/53rao/dsa-daily/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/53rao/dsa-daily/tree/master/0242-valid-anagram) |
@@ -229,6 +232,7 @@
 | [0046-permutations](https://github.com/53rao/dsa-daily/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/53rao/dsa-daily/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/53rao/dsa-daily/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/53rao/dsa-daily/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/53rao/dsa-daily/tree/master/0090-subsets-ii) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/53rao/dsa-daily/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Design
@@ -283,6 +287,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/53rao/dsa-daily/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/53rao/dsa-daily/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/53rao/dsa-daily/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/53rao/dsa-daily/tree/master/0101-symmetric-tree) |
