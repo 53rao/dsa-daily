@@ -1,6 +1,6 @@
 class Solution {
 public:
-    void backtrack(vector<string> &soln,int n,int open,int close,string curr){
+    void backtrack(vector<string> &soln,int n,int open,int close,string &curr){
         if(open+close==2*n){
             soln.emplace_back(curr);
             return;
