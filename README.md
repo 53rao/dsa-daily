@@ -216,6 +216,7 @@
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/53rao/dsa-daily/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/53rao/dsa-daily/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/53rao/dsa-daily/tree/master/1903-largest-odd-number-in-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/53rao/dsa-daily/tree/master/3498-reverse-degree-of-a-string) |
 ## Greedy
 |  |
 | ------- |
@@ -267,6 +268,7 @@
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/53rao/dsa-daily/tree/master/0735-asteroid-collision) |
+| [3498-reverse-degree-of-a-string](https://github.com/53rao/dsa-daily/tree/master/3498-reverse-degree-of-a-string) |
 ## Number Theory
 |  |
 | ------- |
