@@ -18,6 +18,7 @@
 | [0078-subsets](https://github.com/53rao/dsa-daily/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/53rao/dsa-daily/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/53rao/dsa-daily/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/53rao/dsa-daily/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/53rao/dsa-daily/tree/master/0090-subsets-ii) |
 | [0130-surrounded-regions](https://github.com/53rao/dsa-daily/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/53rao/dsa-daily/tree/master/0136-single-number) |
@@ -75,6 +76,7 @@
 | [0031-next-permutation](https://github.com/53rao/dsa-daily/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/53rao/dsa-daily/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/53rao/dsa-daily/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/53rao/dsa-daily/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/53rao/dsa-daily/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/53rao/dsa-daily/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/53rao/dsa-daily/tree/master/0148-sort-list) |
@@ -127,6 +129,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/53rao/dsa-daily/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/53rao/dsa-daily/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/53rao/dsa-daily/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/53rao/dsa-daily/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/53rao/dsa-daily/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/53rao/dsa-daily/tree/master/0242-valid-anagram) |
